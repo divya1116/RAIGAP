@@ -1,0 +1,6 @@
+Question,Weight
+Has the AI model been evaluated for demographic bias?,5
+Are fairness metrics monitored regularly?,5
+Is bias mitigation applied during model development?,5
+Can affected individuals challenge AI decisions?,5
+Are protected groups treated equitably?,5

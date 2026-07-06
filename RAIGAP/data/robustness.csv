@@ -1,6 +1,0 @@
-Question,Weight
-Has the model been stress tested?,5
-Is model performance monitored continuously?,5
-Can the model recover from failures?,5
-Is model drift monitored?,5
-Are backup models available?,5
